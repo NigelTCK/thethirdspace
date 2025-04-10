@@ -1,0 +1,7 @@
+streamlit
+pandas
+matplotlib
+pytz
+python-dateutil
+icalendar
+streamlit-chat
